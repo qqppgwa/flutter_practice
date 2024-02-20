@@ -1,3 +1,7 @@
+## small flutter project for practice
+
+https://github.com/qqppgwa/flutter_practice/assets/36188868/4e86d342-2388-4522-b733-e7c4fad73f40
+
 # flutter_application_1
 
 A new Flutter project.
